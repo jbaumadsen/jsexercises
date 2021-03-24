@@ -1,3 +1,4 @@
+// from MIT xPRO fullstack developer ceritification course
 // Step 1: use slice to find elements in an array
 arr = [1, 2, "MIT Certificate", 4, 5];
 function sliceElements(givenArray) {
@@ -27,8 +28,8 @@ function splitElements(givenString) {
 // console.log(spliceElements(arr, "JavaScript", 101)); // should return [1, 2, "MIT Certificate", 4, "JavaScript", 101]
 
 //Uncomment these line to see results for Step 3
-var str = "MIT Certificate loves JavaScript";
-console.log(splitElements(str)); // should return ["MIT", "Certificate", "loves", "JavaScript"]
+// var str = "MIT Certificate loves JavaScript";
+// console.log(splitElements(str)); // should return ["MIT", "Certificate", "loves", "JavaScript"]
 
 //don't change this line
 if (typeof module !== 'undefined') {
